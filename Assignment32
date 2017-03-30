@@ -1,0 +1,18 @@
+package mouni;
+
+public class Assignment32 {
+
+	
+				int x; int y;
+				String name;
+				public static void main(String args[]) {
+				Assignment32 pnt = new Assignment32();
+				System.out.println ("pnt is " + pnt.name + " " + pnt.x + " " + pnt.y);
+				}
+
+		}
+
+
+
+
+	//pnt is null 0 0
